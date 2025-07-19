@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Tracker",
+  "version": "1.0",
+  "description": "Tracks time spent on websites and sends data to backend.",
+  "permissions": [
+    "tabs",
+    "storage",
+    "activeTab"
+    
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "p1.jpg"
+  },
+  "host_permissions": ["<all_urls>"]
+}
