@@ -1,5 +1,5 @@
 # productivity-tracker
-This is a Chrome extension that tracks which websites you're visiting and how much time you spend on each one. If you stay on the same website for more than *2 minutes, it will show a **popup reminder* to keep you productive.
+This is a Chrome extension that tracks which websites you're visiting and how much time you spend on each one. If you stay on the same website for more than *2 minutes, it will show a popup reminder to keep you productive.
 
 ## Table of content
 - [Features](#features)
