@@ -60,5 +60,9 @@ Browsing YouTube	4	youtube.com	2025-07-05
 Browsing GitHub	3	github.com	2025-07-05
 
 # Screenshots
-<img width="1845" height="644" alt="Screenshot 2025-07-19 173914" src="https://github.com/user-attachments/assets/31ae2d30-f3ab-40db-a93a-a5fc98a6c5c6" />
+<img width="1751" height="624" alt="Screenshot 2025-07-19 173934" src="https://github.com/user-attachments/assets/f54f63ee-4df0-47db-8077-b1774c430d86" />
+
+<img width="1867" height="596" alt="image" src="https://github.com/user-attachments/assets/073ab40f-a425-4df9-a345-35ba84adac44" />
+
+
 
