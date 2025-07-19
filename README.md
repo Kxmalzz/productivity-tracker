@@ -11,7 +11,7 @@ This is a Chrome extension that tracks which websites you're visiting and how mu
 - [Data example](#data-example)
 - [Screenshots](#screenshots)
 - [Author](#author)
-- 
+  
 ##  Features
 - Tracks website usage time in the background.
 - Automatically sends data to a MongoDB database using a Node.js server.
@@ -65,4 +65,4 @@ Browsing GitHub	3	github.com	2025-07-05
 <img width="1867" height="596" alt="image" src="https://github.com/user-attachments/assets/073ab40f-a425-4df9-a345-35ba84adac44" />
 
 ## Author
-
+- Kamali P
